@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0">
 <!DOCTYPE booksCanon [
 <!ELEMENT booksCanon (book)*>
 <!ELEMENT book (title, edition, authors, publisher, pages, isbn, price, currency, comments)>
